@@ -1,0 +1,29 @@
+.loginbox input[type="submit"] {
+	border: none;
+	outline: none;
+	height: 40px;
+	background: #00BFFF;
+	color: snow;
+	font-size: 15px;
+	border-radius: 10px;
+}
+.loginbox input[type="submit"]:hover {
+	cursor: pointer;
+	background: #1B2631;
+    color: #000;
+}
+
+.loginboxs input[type="submit"] {
+	border: none;
+	outline: none;
+	height: 40px;
+    background: #00BFFF;
+	color: #FFF;
+	font-size: 25px;
+	border-radius: 20px;
+}
+.loginboxs input[type="submit"]:hover {
+	cursor: pointer;
+	background: #1B2631;
+    color: #000;
+}
